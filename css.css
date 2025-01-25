@@ -1,0 +1,71 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0d7c7;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:#7f6951;
+    padding: 20px;
+    text-align: center;
+
+}
+.header h1{
+    margin: 0;
+    font-size: 2.5em;
+    color: #e0d7c7;
+}
+.navigation{
+    background-color: #614e41;
+    padding: 10px;
+    text-align: center;
+}
+.navigation a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #e0d7c7;
+    font-weight: bold;
+
+}
+.banner{
+  text-align: center;
+    padding: 50px 20px;
+    background-color: #7f6951;
+}
+.banner h2 {
+    font-size: 2em;
+    color: #e0d7c7;
+}
+.banner p {
+    font-size: 1.2em;
+    color: #e0d7c7;
+}
+.banner button {
+    background-color: #614e41;
+    color: #e0d7c7;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+}
+.sections {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.section {
+    background-color: #7f6951;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+}
+.section h3 {
+    color: #e0d7c7;
+}
+
+.b  istockphoto-106418857-612x612.jpg{
+
+width: 100%;
+height: auto;
+}
